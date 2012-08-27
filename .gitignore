@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Maven
+/target/
